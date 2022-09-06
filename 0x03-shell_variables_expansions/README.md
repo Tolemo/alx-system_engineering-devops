@@ -1,1 +1,1 @@
-Write a script that converts a number from base 2 to base 10
+There are 10 types of people in the world
