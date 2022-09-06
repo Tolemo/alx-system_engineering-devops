@@ -1,0 +1,6 @@
+#!/bin/bash
+printf "%.2f\n" $NUM
+
+Footer
+
+© 2022 GitHub, Inc.
